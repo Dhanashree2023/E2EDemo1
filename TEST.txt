@@ -4,6 +4,14 @@ TC 2
 2
 3
 4
+Add new code
+System.out.print
+X
+Y
+Z
 NNNN
 MMMM
 BBBB
+
+
+
