@@ -4,3 +4,6 @@ TC 2
 2
 3
 4
+NNNN
+MMMM
+BBBB
